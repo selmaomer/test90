@@ -1,0 +1,5 @@
+polyfills.js:1 [webpack-dev-server] Server started: Hot Module Replacement disabled, Live Reloading enabled, Progress disabled, Overlay enabled.
+core.mjs:26656 Angular is running in development mode.
+bagag.js:510 undefined
+register:1  Unchecked runtime.lastError: The message port closed before a response was received.
+010 16789943
